@@ -35,3 +35,29 @@ to grab you HTML content
 ***
 
   *All the "stats" part has been deleted because i don't need to monitor particles in this demo*
+  
+  The only flaw that this library has is that it is no longer maintained :cry:, but wait! We have a wonderful **solution** :sunglasses: :heart: !!
+
+## tsParticle.js
+ 
+**[tsParticle.js](https://particles.js.org/)** is a library with an implementation really similar to Particle.js (so there is not much different or complex than the previous one, really!!), with new features and very well maintained, created by @matteobruni and released under MIT license and... it's also wonderful :white_check_mark:!
+
+[![particle2.gif](https://i.postimg.cc/gcsfhnWy/particle2.gif)](https://postimg.cc/LhqCK4hh)
+
+In order to understand how to implement it, we have a beautiful documentation on [Github](https://github.com/matteobruni/tsparticles).
+
+Matteo writes in his [article](https://dev.to/matteobruni/5-reasons-to-use-tsparticles-and-not-particles-js-1gbe): 
+>[...]I’ll show you some reasons to replace particles.js with the new tsParticles.
+
+>1. *tsParticles are fully compatible with the particles.js configuration. Seriously, you just need to change the script source et-voilà you're ready.*
+
+>2. *tsParticles have a frame per second (fps) limiter, so they don’t let the CPU client suffer more than necessary.*
+
+>3. *tsParticles have a lot of new features.*
+
+>4. *tsParticles development is active.* [...]
+
+
+We can find some great **examples with tsParticles** also on [Codepen](https://codepen.io/collection/DPOage), just to give you an idea of the potential and you can implement it with Vue, React and even Angular. For Wordpress there is no plugin but you can use tsParticle through Premium Addons for Elementor (in the Premium Particles Add.on section).
+
+I hope that you too can try to have fun with **tsParticle.Js**, and that you create beautiful patterns for your projects!:blush: :blush:
